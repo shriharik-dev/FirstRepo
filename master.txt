@@ -3,7 +3,4 @@ Hi, This is My First File!!
 Have added another sentnce this.
 3rd sent
 4th sent
-5th sentence
-6th sent
-7th se
 Making some changes to it!!
