@@ -1,8 +1,11 @@
 Hi, This is My First File!!
 
 Have added another sentnce this.
+<<<<<<< HEAD
 3rd sent
 4th sent
+=======
+>>>>>>> parent of 614fd78... 5th edit in master
 
 
 5th sentence
